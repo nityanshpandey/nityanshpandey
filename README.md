@@ -17,7 +17,7 @@ I'm currently pursuing my Computer Science major at Pranveer Singh Institute of 
 ---
 
 ## 🖥️ Checkout recent project
-•⁠ [GitSum](www.gitsum.space)
+•⁠ [GitSum](www.github.com/khushkaramchandani/gitsum)
 
 ---
 ## 🌱 What I'm learning
