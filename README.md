@@ -7,22 +7,29 @@ I'm currently pursuing my Computer Science major at Pranveer Singh Institute of 
 
 ## 🛠️ Skills
 •⁠  ⁠*Languages:* C, C++, Python, JavaScript, HTML, CSS
+
 •  *Frameworks:* ReactJS, NextJS
+
 •⁠  ⁠*Design:* Figma
+
 •⁠  ⁠*Interests:* Web development, UI/UX design, problem solving
 
 ---
 
 ## 🌱 What I'm learning
 •⁠  ⁠Advanced JavaScript and React
+
 •⁠  ⁠Backend development with Node.js
+
 •⁠  ⁠Data structures and algorithms
+
 •⁠  ⁠System design principles
 
 ---
 
 ## 📫 How to reach me
-•⁠  ⁠*Email:* nityanshpandey07@gmail.com
+•⁠  ⁠*Email:* nityanshpandey07@gmail.com 
+
 •⁠  ⁠*LinkedIn:* [Nityansh Pandey](www.linkedin.com/in/nityansh-pandey-3263582a9)
 
 
@@ -30,8 +37,11 @@ I'm currently pursuing my Computer Science major at Pranveer Singh Institute of 
 
 ## ⚡ Fun Facts
 •⁠  ⁠🎮 I love playing strategic video games
+
 •⁠  ⁠📚 Always reading tech blogs and articles
+
 •⁠  ⁠🎨 Enjoy creating minimalist designs
+
 •⁠  ⁠☕ Coffee enthusiast who codes best with a good cup of coffee
 
 ---
