@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there I'm Nityansh Pandey 👋
 
-<!--
-**nityanshpandey/nityanshpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 CS Major @ PSIT Kanpur
+I'm currently pursuing my Computer Science major at Pranveer Singh Institute of Technology (PSIT), Kanpur.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+•⁠  ⁠*Languages:* C, C++, Python, JavaScript, HTML, CSS
+•  *Frameworks:* ReactJS, NextJS
+•⁠  ⁠*Design:* Figma
+•⁠  ⁠*Interests:* Web development, UI/UX design, problem solving
+
+---
+
+## 🌱 What I'm learning
+•⁠  ⁠Advanced JavaScript and React
+•⁠  ⁠Backend development with Node.js
+•⁠  ⁠Data structures and algorithms
+•⁠  ⁠System design principles
+
+---
+
+## 📫 How to reach me
+•⁠  ⁠*Email:* nityanshpandey07@gmail.com
+•⁠  ⁠*LinkedIn:* [Nityansh Pandey](www.linkedin.com/in/nityansh-pandey-3263582a9)
+
+
+---
+
+## ⚡ Fun Facts
+•⁠  ⁠🎮 I love playing strategic video games
+•⁠  ⁠📚 Always reading tech blogs and articles
+•⁠  ⁠🎨 Enjoy creating minimalist designs
+•⁠  ⁠☕ Coffee enthusiast who codes best with a good cup of coffee
+
+---
+
+Thanks for visiting my profile! Feel free to connect with me. 😊
